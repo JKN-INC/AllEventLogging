@@ -1,7 +1,7 @@
 # AllEventLogging
 Log all Events in the system for better ilias accountability. 
 
-#Installation
+# Installation
 
 In your Ilias Root Directory Run
 
